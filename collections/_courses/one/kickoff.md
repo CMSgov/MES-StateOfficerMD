@@ -6,17 +6,17 @@ lesson: 0
 indicator: admin
 priority: high
 visible: true
-date: October 8, 2020
+date: April 6, 2021
 dimension: ko1
 ---
 
 # {{ page.title }}
 
-To get yourself into the course material, we recommend you give [the syllabus a read]({{ '/syllabus/' | prepend: site.baseurl }}) while listening to some tunes you enjoy. (Or in quiet. Whatever works best for you. We're fans of funk.)
+To get yourself into the course material, we recommend you give [the syllabus a read]({{ '/syllabus/' | prepend: site.baseurl }}) while listening to some tunes you enjoy. (Or in quiet. Whatever works best for you.)
 
 ## What this first course covers
 
-This course will cover four dimensions of the Health Tracker, one for each primary indicator.
+This course will cover four dimensions of the [Health Tracker](https://federalist-eb7b399c-56d9-4c6b-b524-27e0627cdd86.app.cloud.gov/site/jadudm/cms-htmd/rubric/), one for each primary indicator.
 
 ### Outcomes-orientation
 
