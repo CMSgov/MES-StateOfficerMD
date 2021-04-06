@@ -1,6 +1,6 @@
 ---
 layout: widepage
-title: Course four overview
+title: Lesson four overview
 lessons:
     - oo3.1
     - oo3.2
@@ -16,8 +16,8 @@ In this course sequence, the *simpler* things come *earlier*. We are getting to 
 
 {% include course_lesson_list.html lessons=page.lessons %}
 
-## What this course covers
+## What this lesson covers
 
-In the fourth course, we'll go further into what makes a healthy and thriving team and how to recognize more complex indicators of team health. 
+In the fourth lesson, we'll go further into what makes a healthy and thriving team and how to recognize more complex indicators of team health. 
 
 {% include course_lesson_summaries.html lessons=page.lessons %}
