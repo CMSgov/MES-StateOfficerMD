@@ -8,7 +8,6 @@ permalink: /syllabus/
 * TOC
 {:toc}
 
-{% include rubric-txt.html %}
 
 ## Why become a state officer, M.D.?
 
@@ -84,4 +83,6 @@ Engaging with this course should increase your confidence in the 4 primary indic
 5.  Assess quality of software testing.
 6.  Appraise system health and quality of health assessment tooling.
 7.  Discuss project openness and the state decision making process regarding software openness.
+
+{% include rubric-txt.html %}
 
