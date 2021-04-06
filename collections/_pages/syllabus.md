@@ -8,6 +8,8 @@ permalink: /syllabus/
 * TOC
 {:toc}
 
+{% include rubric-txt.html %}
+
 ## Why become a state officer, M.D.?
 
 You may not realize it, but our doctors don’t like it when we only come to them when we’re sick. If they had their way, most doctors would love to see us 1) more often, 2) for less time, and 3) help us make sure we take better care of ourselves so that 4) we wouldn’t get sick in the first place! As an SO, which kind of doctor would you rather be? We suspect you’d prefer more checkups, for less time, and avoid the need for major heart surgery when an improved diet and a short walk every day would do the same job!
