@@ -1,6 +1,6 @@
 ---
 layout: widepage
-title: Course three overview
+title: Lesson three overview
 lessons:
     - oo2.1
     - sc2.2
@@ -12,12 +12,12 @@ lessons:
 
 # {{ page.title }}
 
- As we work our way through the courses, things become more nuanced. In course three, we take a look at some of the medium and lower priority dimensions of the rubric that help deepen our understanding of the principles behind software development health. 
+ As we work our way through the lessons, things become more nuanced. In lesson three, we take a look at some of the medium and lower priority dimensions of the rubric that help deepen our understanding of the principles behind software development health. 
 
 {% include course_lesson_list.html lessons=page.lessons %}
 
-## What this course covers
+## What this lesson covers
 
-In the third course, we begin our exploration of the nuances of contracting and some of the more subtle aspects of thinking about software as an ongoing service obligation (as opposed to a one-and-done product purchase). We also learn a little about data to help you recognize best data management practices in software projects.
+In the third lesson, we begin our exploration of the nuances of contracting and some of the more subtle aspects of thinking about software as an ongoing service obligation (as opposed to a one-and-done product purchase). We also learn a little about data to help you recognize best data management practices in software projects.
 
 {% include course_lesson_summaries.html lessons=page.lessons %}
