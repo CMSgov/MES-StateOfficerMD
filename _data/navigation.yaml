@@ -9,15 +9,15 @@ primary_navigation:
           url: /syllabus/     
     - name: Course
       children:
-        - name: Course one
+        - name: Lesson one
           url: /courses/one/overview/
-        - name: Course two
+        - name: Lesson two
           url: /courses/two/overview/
-        - name: Course three
+        - name: Lesson three
           url: /courses/three/overview/
-        - name: Course four
+        - name: Lesson four
           url: /courses/four/overview/
-        - name: Course five
+        - name: Lesson five
           url: /courses/five/overview/
     - name: Resources
       children:
