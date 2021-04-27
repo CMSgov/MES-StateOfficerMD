@@ -54,7 +54,7 @@ When feature #2 is done, the software is sent out again. The same for feature #3
 
 Note that there's no discussion here of how *long* it takes for these features to be developed. It may be that a feature is really complex and therefore requires a long time to develop.
 
-### Feature-based releflection (10m, solo)
+### Feature-based reflection (10m, solo)
 
 Think about the projects you oversee. What do you know about how they are developed and released? Does the vendor seem to use a feature-based process?
 
