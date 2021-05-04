@@ -3,7 +3,7 @@ primary_navigation:
       url: /
     - name: Begin
       children:
-        - name: Course overview
+        - name: Overview
           url: /courses/one/kickoff/
         - name: Syllabus
           url: /syllabus/     
