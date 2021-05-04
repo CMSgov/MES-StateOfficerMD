@@ -7,7 +7,7 @@ primary_navigation:
           url: /courses/one/kickoff/
         - name: Syllabus
           url: /syllabus/     
-    - name: Course
+    - name: Courses
       children:
         - name: Course one
           url: /courses/one/overview/
