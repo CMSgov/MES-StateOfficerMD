@@ -1,6 +1,6 @@
 ---
 layout: widepage
-title: Lesson three overview
+title: Course overview
 lessons:
     - oo2.1
     - sc2.2
@@ -16,8 +16,8 @@ lessons:
 
 {% include course_lesson_list.html lessons=page.lessons %}
 
-## What this lesson covers
+## What this course covers
 
-In the third lesson, we begin our exploration of the nuances of contracting and some of the more subtle aspects of thinking about software as an ongoing service obligation (as opposed to a one-and-done product purchase). We also learn a little about data to help you recognize best data management practices in software projects.
+In the third course, we begin our exploration of the nuances of contracting and some of the more subtle aspects of thinking about software as an ongoing service obligation (as opposed to a one-and-done product purchase). We also learn a little about data to help you recognize best data management practices in software projects.
 
 {% include course_lesson_summaries.html lessons=page.lessons %}
