@@ -17,8 +17,8 @@ You made it to Course two! We'll learn about all of the highest priority rows of
 
 {% include course_lesson_list.html lessons=page.lessons %}
 
-## What this lesson covers
+## What this course covers
 
-In the second lesson, you will get a chance to engage with more elements of the project Health Rubric. The goal of this course is to begin building more depth of understanding around software projects and their successful management. By completing lessons one and two, you'll have covered all of the highest priority primary indicators of the Health Rubric.
+In the second course, you will get a chance to engage with more elements of the project Health Rubric. The goal of this course is to begin building more depth of understanding around software projects and their successful management. By completing lessons one and two, you'll have covered all of the highest priority primary indicators of the Health Rubric.
 
 {% include course_lesson_summaries.html lessons=page.lessons %}
