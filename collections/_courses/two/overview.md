@@ -1,6 +1,6 @@
 ---
 layout: widepage
-title: Lesson two overview
+title: Course overview
 lessons:
     - oo1.2
     - sc2.1
@@ -13,7 +13,7 @@ lessons:
 
 # {{ page.title }}
 
-You made it to Lesson two! We'll learn about all of the highest priority rows of the Rubric by the end of this lesson.
+You made it to Course two! We'll learn about all of the highest priority rows of the Rubric by the end of this lesson.
 
 {% include course_lesson_list.html lessons=page.lessons %}
 
