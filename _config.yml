@@ -1,19 +1,4 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 ##########################################################################################
 # Be sure to edit the values below
 ##########################################################################################
@@ -22,7 +7,7 @@ title: State Officer, M.D.
 email: matthew.jadud@gsa.gov
 description: >-
   Pilot materials supporting CMS/SOs in using the Health Tracker.
-baseurl: "" 
+baseurl: "/CMCS-DSG-DSS-SOMD/" 
 # the base hostname & protocol for your site, e.g. http://example.com
 # url: "https://example.gov"
 twitter: 18F
@@ -49,45 +34,6 @@ collections:
     permalink: /admin/:name/
 
 permalink: pretty
-
-#################################################################
-#
-# Digital Analytics Program (DAP) configuration
-# HHS     - Department of Health and Human Services
-# GSA     - General Services Administration
-#
-#################################################################
-dap:
-  # agency: your-agency
-  # Optional
-  # subagency: your-subagency
-# Configuration for Google Analytics
-ga:
-  # ua: your-ua
-
-# Search.gov configuration
-#
-# 1. Create an account with Search.gov https://search.usa.gov/signup
-# 2. Add a new site.
-# 3. Add your site/affiliate name here.
-# searchgov:
-
-#   # You should not change this.
-#   endpoint: https://search.usa.gov
-
-#   # replace this with your search.gov account
-#   affiliate: federalist-uswds-example
-
-#   # replace with your access key
-#   access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
-
-#   # this renders the results within the page instead of sending to user to search.gov
-#   inline: true
-
-##########################################################################################
-# The values below here are more advanced and should only be
-# changed if you know what they do
-##########################################################################################
 
 markdown: kramdown
 
