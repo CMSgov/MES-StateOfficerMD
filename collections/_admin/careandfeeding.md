@@ -109,7 +109,7 @@ state:
 * `resources.md`, `rubric.md`, and `rubrictxt.md` all use [includes](#_includes) and YAML files from [/_data/](#_data) to populate the list on the resources pages and the Health Rubric pages.
 
 #### Creating links
-To link internally (to other pages on the site), add {{ `| prepend: site.baseurl` }} to your Markdown links.
+To link internally (to other pages on the site), add {%raw%}{{ | prepend: site.baseurl }}{%endraw%} to your Markdown links.
 
 Example from oo-low-1-2.md (this example links to another lesson, oo-high-1.md):
 
