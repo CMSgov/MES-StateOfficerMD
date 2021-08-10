@@ -1,10 +1,10 @@
----
-title: README
----
+# State Officer, M.D.
 
-This course is being developed as a learning materials pilot in conjunction with colleagues at the Centers for Medicare and Medicaid Services. 
+This course is being developed as a learning materials pilot between 18F and the Centers for Medicare and Medicaid Services. 
 
-THIS COURSE DOES NOT REPRESENT OFFICIAL GUIDANCE. It represents neither changes to existing policy nor pending new policies. **THIS IS NOT OFFICIAL GUIDANCE**.
+THIS COURSE DOES NOT REPRESENT OFFICIAL GUIDANCE. It represents neither changes to existing policy nor pending new policies. 
+
+**THIS IS NOT OFFICIAL GUIDANCE**.
 ## Building this site
 
 The file DEVELOPING.md in this repository covers how to build and test the site locally.
