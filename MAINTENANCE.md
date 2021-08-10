@@ -32,16 +32,17 @@ You'll then need to check out the repository.
 git clone git@github.com:CMSgov/MES-StateOfficerMD.git
 ```
 
-To begin the edit/check cycle, you'll now need to run the docker container included in the repository for previewing the site. On the command line, `cd` into the directory with the repository. (These instructions are written with a Mac/UNIX flavor.)
+To begin the edit/check cycle, you'll now need to run the docker container included in the repository for previewing the site. On the command line, `cd` into the directory where you cloned the repository. Once there, run the docker container. 
 
 ```
 docker compose up
 ```
 
-Some things should go by that look kinda like:
+On first run, this will take a while; it will need to download and build the container. Some things should go by that look kinda like:
 
 ```
-√ MES-StateOfficerMD % docker compose up                                                                                                (main)MES-StateOfficerMD
+√ MES-StateOfficerMD % docker compose up 
+
 [+] Building 0.3s (11/11) FINISHED                                                                                                                               
  => [internal] load build definition from Dockerfile                       
  => => transferring dockerfile: 373B
@@ -85,7 +86,9 @@ The important bit is at the end; this gives you a URL for the site on your local
 
 Now, you 1) can edit text, 2) save changes, and 3) reload pages to see your work. This is useful when you're working on the layout of pages, or writing larger chunks of text. 
 
-Remember that the site is relatively complex, and we have [documented the care and feeding](collections/_admin/careandfeeding.md) as well as provided [a content guide](collections/_admin/contentguide.md). For consistency, we would recommend following these guides. If you choose to break consistency, you are breaking consistency for your learners.
+To edit text, you'll want to use a text editor. [VS Code](https://code.visualstudio.com/) is one option. If you like staying on the command line,  `vi` or `emacs` are possible... but, really, you'll probably want to use VS Code, or [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), or for a classic, [BBEdit](https://www.barebones.com/).
+
+Remember that the site is relatively complex, and we have [documented the care and feeding](collections/_admin/careandfeeding.md) as well as provided [a content guide](collections/_admin/contentguide.md). For consistency, we would recommend following these guides. If you choose to break consistency, you are breaking consistency for your learners. Note also that lessons are part of the core structure of the site, and there's some nifty work being done to include/exclude parts of the site automatically. (Also, some of that nifty work makes sure the site is usable by people using screen readers.)
 
 ### Dealing with errors
 
