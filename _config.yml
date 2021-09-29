@@ -7,7 +7,7 @@ title: State Officer, M.D.
 email: matthew.jadud@gsa.gov
 description: >-
   Pilot materials supporting CMS/SOs in using the Health Tracker.
-baseurl: "/CMCS-DSG-DSS-SOMD" 
+baseurl: "/MES-StateOfficerMD" 
 # the base hostname & protocol for your site, e.g. http://example.com
 # url: "https://example.gov"
 twitter: 18F
